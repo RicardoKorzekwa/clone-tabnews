@@ -1,0 +1,4 @@
+{
+    "editor.defaultFormatter": "EditorConfig.EditorConfig",
+    "notebook.defaultFormatter": "EditorConfig.EditorConfig"
+}
